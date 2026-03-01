@@ -1,4 +1,6 @@
 
-# Cybersecurity student and Linux enthusiast :)
-Currently studying cybersecurity with a vast interest for redteaming and pentesting. Aiming to make digital landscapes more secure.
-
+# Ethical hacker and Linux enthusiast :)
+Cybersecurity student | Offensive Security Enthusiast
+Preparing for CPTS & OSCP
+Interests: Red Teaming, Penetration Testing, Exploit Development
+Dedicated to identifying vulnerabilities and building more secure digital systems.
